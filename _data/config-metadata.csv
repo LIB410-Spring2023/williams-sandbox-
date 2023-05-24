@@ -13,5 +13,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-countryoforgin,Country of Origin 
+countryoforgin,Country of Origin,true,
+archivedpage,Link To Archived Page
 citation,Citation
